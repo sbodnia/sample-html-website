@@ -1,0 +1,15 @@
+apiVersion: v2
+name       : ArgoCD-Kustomize-Helm
+description: Demo Chart
+type       : application
+version    : 0.1.0
+appVersion : "1.2.3"
+
+keywords:
+  - argocd
+  - kustomize
+  - helm
+  - sbodnia
+
+maintainers:
+  - name : Serhii Bodnia
